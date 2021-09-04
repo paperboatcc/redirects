@@ -6,7 +6,7 @@
 #                           |___/
 
 # © 2020-today Fasm.ga
-# Protected by Apache License.
+# Protected by MIT License.
 # https://github.com/fasm-ga/redirects
 
 ############################### Packages
